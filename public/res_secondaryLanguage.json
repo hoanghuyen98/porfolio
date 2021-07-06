@@ -1,0 +1,224 @@
+{
+    "basic_info": {
+      "description_header": "Xin Chào",
+      "description": "👋 Tôi là Huyền, một nhà phát triển blockchain và web full stack đến từ Phú Thọ, Việt Nam. Tôi có nhiều kinh nghiệm trong việc xây dựng và tùy chỉnh trang web. Tôi là Huyền, một nhà phát triển blockchain và web full stack đến từ Phú Thọ, Việt Nam. Tôi có nhiều kinh nghiệm trong việc xây dựng và tùy chỉnh trang web. Tôi đang học năm cuối tại Học viện Công nghệ Mật mã. Tô có gần một năm kinh nghiệm trong lĩnh vực lập trình web tại Rabiloo. Hơn 6 tháng kinh nghiệm làm việc trong lĩnh vực Lập trình di động tại Arilliance.com. Thành thạo Python, OOP. Có kiến ​​thức về CSS, HTML, JavaScript, React, Bootstrap. Tôi mong muốn đa dạng hóa sự nghiệp của mình ở vị trí back-end developer nhằm phát huy tối đa khả năng và nâng cao kiến ​​thức công việc của mình. Tôi đặt mục tiêu trở thành trưởng nhóm lập trình back-end giỏi trong năm tới. Tôi đặt mục tiêu trở thành trưởng nhóm lập trình back-end giỏi trong năm tới. Cảm ơn bạn 💜",
+      "section_name": {
+        "about": "Thông tin về tôi",
+        "projects": "Dự Án",
+        "skills": "Kỹ Năng",
+        "experience": "Kinh Nghiệm"
+      }
+    },
+    "projects": [
+      {
+        "title": "Xác thực đa nhân tố dựa trên nền tảng Blockchain",
+        "startDate": "4/2021",
+        "description": "Nghiên cứu xây dựng giải pháp xác thực đa yếu tố dựa trên Ethereum, sử dụng ngôn ngữ solidity",
+        "images": [
+          "images/portfolio/MFA/login.png",
+          "images/portfolio/MFA/QRcode.png"
+        ],
+        "url": "",
+        "technologies": [
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          },
+          {
+            "class": "devicon-react-original",
+            "name": "Reactjs"
+          }
+        ]
+      },
+      {
+        "title": "Nhận dạng ký tự quang học",
+        "startDate": "1/2021",
+        "description": "Mô hình cơ bản có thể nhận dạng tiếng Hàn và tiếng Anh. Nó trích xuất văn bản chính xác ngay cả trong những hình ảnh có độ phức tạp hoặc biến dạng nghiêm trọng và có khả năng nhận dạng chữ viết tay tuyệt vời.",
+        "images": [
+          "images/portfolio/adventure/p1.jpg",
+          "images/portfolio/adventure/p2.jpg"
+        ],
+        "url": "",
+        "technologies": [
+          {
+            "class": "devicon-angularjs-plain",
+            "name": "Flask"
+          },
+          {
+            "class": "devicon-typescript-plain",
+            "name": "JavaScript"
+          },
+          {
+            "class": "devicon-csharp-plain",
+            "name": "Sourcetree"
+          }
+        ]
+      },
+      {
+        "title": "App Mobile Đặt Xe",
+        "startDate": "1/2020",
+        "description": "Đây là ứng dụng giúp mọi người đặt vé xe buýt. tìm kiếm điểm đến của bạn và chọn từ nhiều lựa chọn về các nhà điều hành xe buýt đáng tin cậy, thời gian khởi hành, giá cả, loại xe buýt, điểm đón và trả khách, xếp hạng và đánh giá. Chọn chỗ ngồi, giường và thanh toán an toàn bằng các phương thức thanh toán phổ biến: ATM Internet Banking, Visa",
+        "images": [
+          "images/portfolio/adventure/p1.jpg",
+          "images/portfolio/adventure/p2.jpg"
+        ],
+        "url": "",
+        "technologies": [
+          {
+            "class": "devicon-angularjs-plain",
+            "name": "Django"
+          },
+          {
+            "class": "devicon-typescript-plain",
+            "name": "JavaScript"
+          },
+          {
+            "class": "devicon-csharp-plain",
+            "name": "Sourcetree"
+          }
+        ]
+      },
+      {
+        "title": "Yoteacher",
+        "startDate": "9/2019",
+        "description": "Yoteacher là ứng dụng giáo dục kết nối học sinh và phụ huynh đang tìm lời giải đáp, hướng dẫn làm bài tập, tư vấn nội dung học tập với giáo viên các môn: toán, lý, hóa, sinh, văn, tiếng Anh, địa lý lớp 9, 10, 11, 12. Các chức năng chính của Yoteacher bao gồm: • Tìm kiếm giáo viên theo chủ đề, theo vị trí • Trò ​​chuyện, SMS cá nhân hoặc theo nhóm với giáo viên • Thực hiện cuộc gọi âm thanh hoặc video trực tiếp với giáo viên • Lưu danh bạ và kết bạn với học sinh ",
+        "images": [
+          "images/portfolio/Yoteacher/yoteacher.PNG"
+        ],
+        "url": "",
+        "technologies": [
+          {
+            "class": "devicon-django-plain",
+            "name": "Django"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          },
+          {
+            "class": "devicon-jquery-plain",
+            "name": "Jquery"
+          }
+        ]
+      },
+      {
+        "title": "WORM",
+        "startDate": "5/2018",
+        "description": "Web đo thời gian chấm điểm trung bình trong một tháng của máy trợ giảng",
+        "images": [
+          "images/portfolio/adventure/p1.jpg",
+          "images/portfolio/adventure/p2.jpg"
+        ],
+        "url": "https://github.com",
+        "technologies": [
+          {
+            "class": "devicon-angularjs-plain",
+            "name": "Django"
+          },
+          {
+            "class": "devicon-typescript-plain",
+            "name": "JavaScript"
+          }
+        ]
+      },
+      {
+        "title": "Bmi Byemoizzy.",
+        "startDate": "6/2018",
+        "description": "Trang web đo chỉ số BMI của cơ thể",
+        "images": [
+          "images/portfolio/adventure/p1.jpg",
+          "images/portfolio/adventure/p2.jpg"
+        ],
+        "url": "https://bmi-byemoizzy.herokuapp.com/",
+        "technologies": [
+          {
+            "class": "devicon-typescript-plain",
+            "name": "JavaScript"
+          },
+          {
+            "class": "devicon-python-plain",
+            "name": "Python"
+          }
+        ]
+      },
+      {
+        "title": "Tank Battle",
+        "startDate": "6/2018",
+        "description": "Trận chiến xe tăng là một trò chơi hành động đi chuyển bắn súng! Sử dụng một loạt pháo hạng nặng đáng kinh ngạc để bắn tan xe tăng của đối phương, đồng thời chiến đấu theo cách của bạn để giành chiến thắng. Bạn còn chờ gì nữa? Hãy tự nâng mình lên bằng chiến dịch khởi động của bạn và bắt đầu hành động!",
+        "images": [
+          "images/portfolio/game/game.PNG"
+        ],
+        "url": "https://www.facebook.com/100011488788286/videos/711179835941636/",
+        "technologies": [
+          {
+            "class": "devicon-java-plain",
+            "name": "Java"
+          }
+        ]
+      }
+    ],
+    "experience": [
+      {
+        "company": "KMA",
+        "title": "Nghiên cứu, xây dựng xác thực ứng dụng web dựa trên nền tảng Blockchain",
+        "years": "6.2021 - hiện tại",
+        "mainTech": [
+          "Solidity 0.5.0",
+          "ReactJS"
+        ],
+        "technologies": [
+          "Socket.io",
+          "JavaScript",
+          "Bootstrap",
+          "Web3js"
+        ]
+      },
+      {
+        "company": "Rabiloo",
+        "title": "Fresher Python",
+        "years": "07.2020 - 6.2021",
+        "mainTech": [
+          "Django",
+          "Flask",
+          "FastAPI"
+        ],
+        "technologies": [
+          "REST API",
+          "OpenCV",
+          "JavaScript",
+          "CI/CD",
+          "Redis"
+        ]
+      },
+      {
+        "company": "Arilliance",
+        "title": "Back-End Developer",
+        "years": "9.2019 - 4/2020",
+        "mainTech": [
+          "Django",
+          "Nodejs",
+          "PHP"
+        ],
+        "technologies": [
+          "REST API",
+          "JavaScript",
+          "Bootstrap",
+          "jQuery",
+          "git"
+        ]
+      },
+      {
+        "company": "MindX - Technology and Startup School",
+        "title": "Lecturers and Developer at Technology and Startup School",
+        "years": "8.2018 - 5.2020",
+        "mainTech": [
+          "Python"
+        ],
+        "technologies": [
+          "REST API",
+          "JavaScript",
+          "Bootstrap"
+        ]
+      }
+    ]
+  }

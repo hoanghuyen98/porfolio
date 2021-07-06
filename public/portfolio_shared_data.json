@@ -1,0 +1,113 @@
+{
+    "basic_info": {
+      "name": "Hoàng Thanh Huyền",
+      "titles": [ "Full Stack Developer Web", "Blockchain Developer"],
+      "social": [
+        {
+          "name": "instagram",
+          "url": "https://www.instagram.com/huyenhoang806/",
+          "class": "fab fa-instagram"
+        },
+        {
+          "name": "Facebook",
+          "url": "https://www.facebook.com/profile.php?id=100011488788286",
+          "class": "fab fa-facebook"
+        }
+      ],
+      "image": "myProfile.JPG"
+    },
+    "skills": {
+      "icons": [
+        {
+          "name": "HTML",
+          "class": "devicon-html5-plain",
+          "level": "95"
+        },
+        {
+          "name": "CSS",
+          "class": "devicon-css3-plain",
+          "level": "95"
+        },
+        {
+          "name": "Python",
+          "class": "devicon-python-plain",
+          "level": "80"
+        },
+        {
+          "name": "Django",
+          "class": "devicon-django-plain",
+          "level": "90"
+        },
+        {
+          "name": "JavaScript",
+          "class": "devicon-javascript-plain",
+          "level": "70"
+        },
+        {
+          "name": "Sass",
+          "class": "devicon-sass-original",
+          "level": "75"
+        },
+        {
+          "name": "Bootstrap",
+          "class": "devicon-bootstrap-plain",
+          "level": "85"
+        },
+        {
+          "name": "MySql",
+          "class": "devicon-mysql-plain",
+          "level": "60"
+        },
+        {
+          "name": "Java",
+          "class": "devicon-java-plain",
+          "level": 40
+        },
+        {
+          "name": "PHP",
+          "class": "devicon-php-plain",
+          "level": 40
+        },
+        {
+          "name": "React",
+          "class": "devicon-react-original",
+          "level": 40
+        },
+        {
+          "name": "Vuejs",
+          "class": "devicon-vuejs-plain",
+          "level": 40
+        },
+        {
+          "name": "Wordpress",
+          "class": "devicon-wordpress-plain",
+          "level": 40
+        },
+        {
+          "name": "Gitlab",
+          "class": "devicon-gitlab-plain",
+          "level": 40
+        },
+        {
+          "name": "Git",
+          "class": "devicon-git-plain",
+          "level": 40
+        },
+        {
+          "name": "Soucetree",
+          "class": "devicon-sourcetree-original",
+          "level": 40
+        },
+        {
+          "name": "Pycharm",
+          "class": "devicon-pycharm-plain",
+          "level": 40
+        },
+        {
+          "name": "Mongodb",
+          "class": "devicon-mongodb-plain",
+          "level": 40
+        }
+      ]
+    }
+  }

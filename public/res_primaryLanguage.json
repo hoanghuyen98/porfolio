@@ -1,0 +1,225 @@
+{
+    "basic_info": {
+      "description_header": "Hi",
+      "description": "👋 I'm Huyen, a full stack developer web and blockchain developer from Phu Tho, Vietnam. I have rich experience in web site building and customization. I'm in my final year at the at the Institute of Cryptography Technology. Nearly a year of experience in the field of web programming at Rabiloo. More than 6 months working experience in Mobile programming at Arilliance.com. Proficient in Python, OOP. Knowledge of CSS, HTML, JavaScript, React, Bootstrap. I look forward to diversifying my career as a back-end developer position in order to maximize my ability and improve my job knowledge. I aim to become a good back-end programming team leader for the next year. I aim to become a good back-end programming team leader for the next year. Thank you 💜",
+      "section_name": {
+        "about": "About me",
+        "projects": "Projects",
+        "skills": "Skills",
+        "experience": "Experience"
+      }
+    },
+    "projects": [
+      {
+        "title": "MFA Blockchain",
+        "startDate": "4/2021",
+        "description": "Research for building Ethereum-based multi-factor authentication solution, using solidity language",
+        "images": [
+          "images/portfolio/MFA/login.png",
+          "images/portfolio/MFA/QRcode.png"
+        ],
+        "url": "",
+        "technologies": [
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          },
+          {
+            "class": "devicon-react-original",
+            "name": "Reactjs"
+          }
+        ]
+      },
+      {
+        "title": "Optical Character Recognition",
+        "startDate": "1/2021",
+        "description": "Basic model that can recognize Korean and English. It extracts text accurately even in images with severe distortion or complexity, and has excellent handwriting recognition.",
+        "images": [
+          "images/portfolio/adventure/p1.jpg",
+          "images/portfolio/adventure/p2.jpg"
+        ],
+        "url": "",
+        "technologies": [
+          {
+            "class": "devicon-angularjs-plain",
+            "name": "Flask"
+          },
+          {
+            "class": "devicon-typescript-plain",
+            "name": "JavaScript"
+          },
+          {
+            "class": "devicon-csharp-plain",
+            "name": "Sourcetree"
+          }
+        ]
+      },
+      {
+        "title": "Car Reservation",
+        "startDate": "1/2020",
+        "description": "This is the app that helps people way to book bus tickets. earch for your destination and choose from a wide choice of reliable bus  operators, departure times, prices, bus types, pickup & drop off points, ratings &  reviews. Choose seats, beds & pay securely using popular payment options: ATM Internet  Banking, Visa",
+        "images": [
+          "images/portfolio/adventure/p1.jpg",
+          "images/portfolio/adventure/p2.jpg"
+        ],
+        "url": "",
+        "technologies": [
+          {
+            "class": "devicon-angularjs-plain",
+            "name": "Django"
+          },
+          {
+            "class": "devicon-typescript-plain",
+            "name": "JavaScript"
+          },
+          {
+            "class": "devicon-csharp-plain",
+            "name": "Sourcetree"
+          }
+        ]
+      },
+      {
+        "title": "Yoteacher",
+        "startDate": "9/2019",
+        "description": "Yoteacher is an educational application that connects students and parents who  are looking for answers, homework guides, advice on learning content with  teachers of all subjects: math, physics, chemistry, biology, literature, English,  geography of grades 9, 10, 11, 12. The main functions of Yoteacher include:  • Search teachers by subject, by location  • Chat, SMS individually or in groups with teachers  • Make audio or video calls directly to the teacher  • Save contacts and make friends with students ",
+        "images": [
+          "images/portfolio/Yoteacher/yoteacher.PNG"
+        ],
+        "url": "",
+        "technologies": [
+          {
+            "class": "devicon-django-plain",
+            "name": "Django"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          },
+          {
+            "class": "devicon-jquery-plain",
+            "name": "Jquery"
+          }
+        ]
+      },
+      {
+        "title": "WORM",
+        "startDate": "5/2018",
+        "description": "The web measures the average marking time in a month of a teaching assistant",
+        "images": [
+          "images/portfolio/adventure/p1.jpg",
+          "images/portfolio/adventure/p2.jpg"
+        ],
+        "url": "https://github.com",
+        "technologies": [
+          {
+            "class": "devicon-angularjs-plain",
+            "name": "Django"
+          },
+          {
+            "class": "devicon-typescript-plain",
+            "name": "JavaScript"
+          }
+        ]
+      },
+      {
+        "title": "Bmi Byemoizzy.",
+        "startDate": "6/2018",
+        "description": "Website to measure BMI of the body",
+        "images": [
+          "images/portfolio/adventure/p1.jpg",
+          "images/portfolio/adventure/p2.jpg"
+        ],
+        "url": "https://bmi-byemoizzy.herokuapp.com/",
+        "technologies": [
+          {
+            "class": "devicon-typescript-plain",
+            "name": "JavaScript"
+          },
+          {
+            "class": "devicon-python-plain",
+            "name": "Python"
+          }
+        ]
+      },
+      {
+        "title": "Tank Battle",
+        "startDate": "6/2018",
+        "description": "Tank Battle is a side-scrolling shoot 'em up arcade action game at its best! Use an incredible assortment of heavy artillery to blast away enemy tanks and planes, and fight your way to victory. What are you waiting for? Pull yourself up by your bootstraps and get into the action!",
+        "images": [
+          "images/portfolio/game/game.PNG"
+        ],
+        "url": "https://www.facebook.com/100011488788286/videos/711179835941636/",
+        "technologies": [
+          {
+            "class": "devicon-java-plain",
+            "name": "Java"
+          }
+        ]
+      }
+    ],
+    "experience": [
+      {
+        "company": "KMA",
+        "title": "Research, build web application authentication based on Blockchain platform",
+        "years": "6.2021 - Present",
+        "mainTech": [
+          "Solidity 0.5.0",
+          "ReactJS"
+        ],
+        "technologies": [
+          "Socket.io",
+          "JavaScript",
+          "Bootstrap",
+          "Web3js"
+        ]
+      },
+      {
+        "company": "Rabiloo",
+        "title": "Fresher Python",
+        "years": "07.2020 - 6.2021",
+        "mainTech": [
+          "Django",
+          "Flask",
+          "FastAPI"
+        ],
+        "technologies": [
+          "REST API",
+          "OpenCV",
+          "JavaScript",
+          "CI/CD",
+          "Redis"
+        ]
+      },
+      {
+        "company": "Arilliance",
+        "title": "Back-End Developer",
+        "years": "9.2019 - 4/2020",
+        "mainTech": [
+          "Django",
+          "Nodejs",
+          "PHP"
+        ],
+        "technologies": [
+          "REST API",
+          "JavaScript",
+          "Bootstrap",
+          "MDBootstrap",
+          "git"
+        ]
+      },
+      {
+        "company": "MindX - Technology and Startup School",
+        "title": "Lecturers at Technology and Startup School",
+        "years": "8.2018 - 5.2020",
+        "mainTech": [
+          "Python"
+        ],
+        "technologies": [
+          "REST API",
+          "RxJS",
+          "JavaScript",
+          "Bootstrap"
+        ]
+      }
+    ]
+  }
